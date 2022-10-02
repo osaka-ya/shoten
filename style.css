@@ -1,0 +1,20 @@
+.title{
+    background-color: #851414;
+    background-size: auto;
+    font-weight: 50px;
+    font-size: 60px;
+    letter-spacing:0.2em;
+    padding-left: 1em;
+    margin: 50px 0 50px 10px;
+    color: rgb(255, 255, 255)
+    
+}
+
+img{
+    position: absolute;
+    top: 110%;
+    transform: translateY(-50%);
+    width: 800px;
+    height: 600px;
+
+}
